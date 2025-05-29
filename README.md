@@ -1,3 +1,3 @@
 # Codes---C
 
-Questões de Cógigo em C
+Questões de Código em C
