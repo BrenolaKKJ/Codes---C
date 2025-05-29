@@ -1,5 +1,5 @@
-Elabore um programa que pergunte um valor em graus Fahrenheit e imprima
-no vídeo o correspondente em graus Celsius usando as fórmulas que seguem.
+//Elabore um programa que pergunte um valor em graus Fahrenheit e imprima
+//no vídeo o correspondente em graus Celsius usando as fórmulas que seguem.
 
   #include <stdio.h>
 
